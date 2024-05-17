@@ -5,7 +5,7 @@ SUBLEVEL = 0
 EXTRAVERSION = -rc7
 NAME = Hurr durr I'ma ninja sloth
 
-# *DOCUMENTATION*
+# *DOS*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
 # Comments in this file are targeted only to the developer, do not
